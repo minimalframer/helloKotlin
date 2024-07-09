@@ -13,7 +13,7 @@ To get started with the project:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MuhammedHasan/helloKotlin.git
+    https://github.com/LalonGPT/helloKotlin.git
     ```
 2. **Navigate to the project directory:**
 
